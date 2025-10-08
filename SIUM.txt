@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <link rel="stylesheet" href="new 1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IL SIUM NAZIONALE</title>
+    
+</head>
+<body>
+
+    <div class="background-image"></div>
+
+    <header>
+        <h1>CR7</h1>
+        <p>TUTORIAL</p>
+    </header>
+
+    <div class="menu">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Ingredienti</a></li>
+            <li><a href="#">Metodi di Preparazione</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <h2>La Selezione degli Ingredienti</h2>
+        <p>hehhrtrtyrwtryert<p>
+        <h2>tyhertrtyytra</h2>
+        <p>afsiohwrr13490e30930990690
+        <h2>Spezie e Aromi</h2>
+        <p>Le spezie giocano un ruolo importante: pepe, aglio e talvolta pistacchi vengono aggiunti per dare alla mortadella il suo gusto inconfondibile. La qualità delle spezie e la giusta combinazione di aromi sono segreti ben custoditi dai produttori italiani.</p>
+    </div>
+
+    <div class="footer">
+        <p>Contattaci per ulteriori informazioni sulla produzione della mortadella</p>
+    </div>
+
+</body>
+</html>
