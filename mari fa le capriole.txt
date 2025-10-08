@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  
+<title>La mia prima pagina HTML</title>
+
+</head>
+
+<body>
+  
+<h1>Benvenuto nella mia pagina!</h1>
+  
+<p>Questo è un semplice paragrafo.</p>
+  
+<a href="https://www.google.com">Visita Google</a>
+</body>
+</html>
